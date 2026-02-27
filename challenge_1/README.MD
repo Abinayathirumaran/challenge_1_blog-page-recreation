@@ -47,6 +47,7 @@ challenge-1-blog-page
 └── mountain.jpg
 
 ## 📸 Preview
+![Challenge Result](assets/preview.png)
 
 ## 📈 Skills Practiced
 
