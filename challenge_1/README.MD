@@ -49,6 +49,7 @@ challenge-1-blog-page
 ## 📸 Preview
 ![Challenge Result](assets/preview.png)
 
+![Challenge Result](assets/preview.png)
 ## 📈 Skills Practiced
 
 - Layout structuring
